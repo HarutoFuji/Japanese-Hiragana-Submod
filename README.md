@@ -1,2 +1,3 @@
 # Japanese-Hiragana-Submod
-Done.
+This Submod will help you learn Japanese Hiragana with Monika!
+Status: Finished
